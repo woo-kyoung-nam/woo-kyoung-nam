@@ -5,7 +5,7 @@
   
 </div>
 
-<div>
+<!-- <div> -->
   <!--Body-->
   ## 👀 About Me
   #### :raising_hand: I am a Fullstack Engineer and BigData Analyst from South Korea.<br/>
@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--R-->
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-
-  
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -47,7 +45,7 @@
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woo-kyoung-nam)](https://github.com/anuraghazra/github-readme-stats) -->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woo-kyoung-nam&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+<!-- </div> -->
   
   
 <!--
